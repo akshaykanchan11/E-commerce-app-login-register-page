@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221800123686",
+    "project_id": "furnituredekho-71394",
+    "storage_bucket": "furnituredekho-71394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221800123686:android:0dcc2e1a472da3f13245e7",
+        "android_client_info": {
+          "package_name": "com.example.furnituredekho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221800123686-b8r6kq9i4mm33t0t4d4d6vpks4u0o3gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qS7m4rRvz4rfTJGH2wsm7NrM0tMGwSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221800123686-b8r6kq9i4mm33t0t4d4d6vpks4u0o3gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
